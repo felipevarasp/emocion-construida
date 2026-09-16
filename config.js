@@ -14,5 +14,5 @@ window.CONFIG = {
 
   // 3) Etiqueta que se guarda con cada respuesta (útil si aplicas el
   //    experimento en más de una sección o en más de un año).
-  curso: "PAME 2026 - Seccion 2"
+  curso: "PAME 2026 - Seccion 1"
 };
