@@ -6,7 +6,7 @@ window.CONFIG = {
   // 1) URL de la aplicación web de Apps Script (termina en /exec).
   //    Mientras esté vacía, el experimento funciona igual pero no envía datos:
   //    cada estudiante descarga su archivo CSV al terminar.
-  endpoint: "",
+  endpoint: "https://script.google.com/macros/s/AKfycbzulD_IV-ZqbtlpO9-P9I2widcMKGEjXwhrIFS-2d6yP_V25QsaIPeIDZWvqZiLcdzIeA/exec",
 
   // 2) URL del CSV publicado de la hoja "pares", para la página de resultados.
   //    En la planilla: Archivo > Compartir > Publicar en la web > CSV.
@@ -14,5 +14,5 @@ window.CONFIG = {
 
   // 3) Etiqueta que se guarda con cada respuesta (útil si aplicas el
   //    experimento en más de una sección o en más de un año).
-  curso: "PAME 2026 - Seccion 1"
+  curso: "PAME 2026 - Seccion 2"
 };
